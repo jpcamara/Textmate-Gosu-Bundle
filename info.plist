@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Gosu</string>
+	<key>ordering</key>
+	<array>
+		<string>1A5480B8-D53B-4F54-BD42-0945CFD37011</string>
+		<string>1C0900E7-A545-456A-BF33-9EAD1A9AEC20</string>
+		<string>CFA1D4D3-2BD7-4E2C-B9EE-651807887386</string>
+		<string>9B539B4C-476A-481D-AA89-248AD949DA9B</string>
+		<string>F7BE5B01-00E3-47AF-9748-7409D20BF117</string>
+		<string>F6EAE72E-B367-470D-9A32-9F82BBB8EF2A</string>
+		<string>CC22F683-362A-4886-8464-5F79687A7B0E</string>
+	</array>
+	<key>uuid</key>
+	<string>3B8695BB-D9BF-4462-A23E-2392E08AB03F</string>
+</dict>
+</plist>
