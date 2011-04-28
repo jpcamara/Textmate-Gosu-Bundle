@@ -1,1 +1,8 @@
 Textmate bundle for the Gosu (http://gosu-lang.org/) language.
+
+Gives some helpful functionality for using Gosu in Textmate. Assumes that Gosu + Vark are on your PATH.
+
+- Code snippets
+- Run command
+- Vark command (operates on the currently open vark file - requires a DefaultTarget)
+- Vedit command (operates on the currently open vark file)
