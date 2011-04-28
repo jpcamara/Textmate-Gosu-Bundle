@@ -22,7 +22,7 @@ TextMate::Executor.run("vedit")</string>
 	<key>input</key>
 	<string>document</string>
 	<key>keyEquivalent</key>
-	<string>@v</string>
+	<string>@V</string>
 	<key>name</key>
 	<string>Open Vark file in Vedit</string>
 	<key>output</key>
