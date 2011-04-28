@@ -32,7 +32,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(abstract|assert|break|case|catch|class|continue|do|else|enum|extends|final|finally|for|if|implements|uses|typeis|interface|new|package|private|protected|public|return|static|super|switch|throw|try|void|while|enhancement|protocol|function|block|as|represents|delegate|readonly|property|get|set|using|var|print|construct|in|override|and|or|not|params|classpath|index|typeof|@[a-zA-Z]+)\b</string>
+			<string>\b(abstract|assert|break|case|catch|class|continue|do|else|enum|extends|final|finally|for|if|implements|uses|typeis|interface|new|package|private|protected|public|return|static|super|switch|throw|try|void|while|enhancement|protocol|function|block|as|represents|delegate|readonly|property|get|set|using|var|print|construct|in|override|and|or|not|params|typeloader|classpath|index|typeof|@[a-zA-Z]+)\b</string>
 			<key>name</key>
 			<string>keyword.control.gosu.2</string>
 		</dict>
