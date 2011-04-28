@@ -4,5 +4,5 @@ Gives some helpful functionality for using Gosu in Textmate. Assumes that Gosu +
 
 - Code snippets
 - Run command - runs the currently open Gosu program file (.gsp)
-- Vark command - runs the currently open vark file (.vark)
+- Vark command - runs the currently open vark file (.vark) - requires a DefaultTarget in the file.
 - Vedit command - starts vedit with the currently open vark file (.vark)
